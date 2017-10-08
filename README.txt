@@ -1,4 +1,4 @@
-The following scripts were used to create the data spreadsheets in the ‘Annie’ folder on Dropbox. Updated 10/07/2017.
+The following scripts were used to find potential new disease targets for existing medications using GWAS/INRICH and MEDI data. Updated 10/07/2017.
 
 - mapping.py was used to create the following three datasets:
 1) drug_phenotype.csv - mapped RxCUI codes in MEDI to PheCodes by ICD9
